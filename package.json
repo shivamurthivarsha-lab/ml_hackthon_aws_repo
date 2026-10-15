@@ -1,0 +1,13 @@
+{
+  "name": "smart-campus-resource-hub",
+  "version": "1.0.0",
+  "description": "Smart Campus Resource Hub - Sharing, Requesting, and Managing Campus Resources",
+  "scripts": {
+    "backend": "cd backend && npm start",
+    "frontend": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build"
+  },
+  "keywords": ["campus", "resource-sharing", "iot", "laboratory", "react", "express"],
+  "author": "Antigravity Pair Programmer",
+  "license": "MIT"
+}
